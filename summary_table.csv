@@ -1,0 +1,11 @@
+"data_collection_round","house_type","n","prop"
+"Baseline","Timber frame",1426,0.471404958677686
+"Baseline","Timber and concrete",712,0.235371900826446
+"Baseline","Hut",459,0.151735537190083
+"Baseline","Concrete",280,0.0925619834710744
+"Baseline","Makeshift shelter",147,0.048595041322314
+"Baseline","NA",1,0.000330578512396694
+"End-line","Timber frame",775,0.431995540691193
+"End-line","Timber and concrete",412,0.229654403567447
+"End-line","Hut",355,0.197881828316611
+"End-line","Concrete",244,0.136008918617614
